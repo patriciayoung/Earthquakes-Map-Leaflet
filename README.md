@@ -1,18 +1,22 @@
-# leaflet-challenge
+Earthquakes-Map-Leaflet
 
-Purpose: 
+Overview:
+This section elucidates the purpose and mission of the United States Geological Survey (USGS), highlighting its role in providing scientific data on natural hazards, ecosystems, climate change, and land-use impacts. It also emphasizes the USGS's interest in developing new visualization tools for earthquake data to educate the public and other governmental agencies on planetary issues.
 
-The United States Geological Survey (USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. 
 
-The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it.
+Objective:
+Under the objective category, the primary goal of the project is clearly defined, detailing the specific aims and objectives that the USGS aims to achieve through the development of earthquake data visualization tools.
 
-In this dashboard, ("USGS All Earthquakes from the Past 7 Days" dataset), contains a map to visualize their data that will help educate the public and other government agencies and organizations on issues facing our planet. 
+Methodology:
+In the methodology section, the approach, techniques, and methodologies utilized in creating the earthquake data visualization dashboard are elaborated upon, offering insights into the project's execution.
 
+Key Findings:
+This category encapsulates the significant discoveries, insights, and outcomes derived from the earthquake data visualization dashboard, highlighting the key findings and observations drawn from the analysis.
+
+Conclusion:
+In the conclusion segment, the implications, contributions, and potential future directions of the earthquake data visualization dashboard project are summarized and discussed, offering closure to the project overview.
 
 
 
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
-Add and save your API key inside of a config.js file inside of the static/js/folder
-
- export const API_KEY = <your API key>
