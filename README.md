@@ -5,16 +5,15 @@ This section elucidates the purpose and mission of the United States Geological 
 
 
 Objective:
-Under the objective category, the primary goal of the project is clearly defined, detailing the specific aims and objectives that the USGS aims to achieve through the development of earthquake data visualization tools.
+The objective here was to create an interactive map that could label earthquakes. This map would help aid USGS in its education department and education people who visited their website and anyone who visited their multiple locations.
 
 Methodology:
-In the methodology section, the approach, techniques, and methodologies utilized in creating the earthquake data visualization dashboard are elaborated upon, offering insights into the project's execution.
+Data Modeling
+Data Engineering
+Data Analysis
 
 Key Findings:
-This category encapsulates the significant discoveries, insights, and outcomes derived from the earthquake data visualization dashboard, highlighting the key findings and observations drawn from the analysis.
-
-Conclusion:
-In the conclusion segment, the implications, contributions, and potential future directions of the earthquake data visualization dashboard project are summarized and discussed, offering closure to the project overview.
+Successfully created an interactive map with labeled hot zones of earthquakes. The map was detailed in colors and sizes differentiating the magnitudes of earthquakes. A legend was also added to aid the map, it added magnitude, location, and depth.
 
 
 
